@@ -1,0 +1,15 @@
+---
+uti: com.xamarin.workbook
+id: 5c59c50f-dd40-4565-86c1-7778759c85f9
+title: Workbooks for Documentation
+platforms:
+- DotNetCore
+---
+
+# Workbooks for Documentation
+
+Spicy jalapeno bacon ipsum dolor amet pancetta chicken brisket turkey alcatra, pork loin beef ribs. Brisket ball tip pork chop chicken ham hock spare ribs boudin, picanha meatloaf. Porchetta doner pork belly sausage strip steak, pig beef ribs. Salami biltong strip steak flank, jowl venison pastrami pig ham hock hamburger jerky ribeye pork belly bresaola sausage. Kevin tail porchetta ham capicola bresaola spare ribs turkey t-bone bacon buffalo ground round fatback. Bresaola tail cow, ham biltong drumstick sirloin ground round hamburger. Rump boudin ham hock, kevin buffalo biltong kielbasa chuck bresaola ribeye shank burgdoggen tenderloin tongue.
+
+```csharp
+1 + 1
+```
